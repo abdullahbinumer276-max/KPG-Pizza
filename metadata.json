@@ -1,0 +1,6 @@
+{
+  "name": "KPG Pizza",
+  "description": "Hot, Fresh, Loaded Pizzas, Burgers, Shawarmas, Deals & Free Delivery for KPG Pizza",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
